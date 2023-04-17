@@ -1,0 +1,1 @@
+javaw --module-path c:\apps\javafx\javafx-sdk-17.0.6\lib --add-modules javafx.controls,javafx.fxml -jar target\demo8fx-jar-with-dependencies.jar
